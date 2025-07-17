@@ -49,7 +49,7 @@ Per replicare questa analisi, segui questi passaggi:
 
 1.  Clona il repository:
     ```bash
-    git clone https://github.com/TUO_NOME_UTENTE/NOME_REPOSITORY.git
+    git clone https://github.com/AshenClock7613/Car-Price-Prediction.git
     ```
 
 2.  Installa le dipendenze necessarie. È consigliato utilizzare un ambiente virtuale.
